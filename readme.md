@@ -1,1 +1,1 @@
-[A React Timer Application](http://awebrown-timer.herokuapp.com)
+A React boilerplate with testing suite.
